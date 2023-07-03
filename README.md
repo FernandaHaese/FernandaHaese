@@ -4,8 +4,8 @@ Me chamo Fernanda, sou uma capixaba apaixonada por design, programação e artes
 <h3 align="left">Entre em contato:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/aachal-pardeshi-258257225" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="linkedin" height="30" width="40" /></a>
-<a href="" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/dribbble.svg" alt="dribble" height="30" width="40" /></a>
-<a href="" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/behance.svg" alt="behance" height="30" width="40" /></a>
+<a href="https://dribbble.com/FernandaPassoni" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/dribbble.svg" alt="dribble" height="30" width="40" /></a>
+<a href="https://www.behance.net/nandahaese" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/behance.svg" alt="behance" height="30" width="40" /></a>
 </p>
 Meu portfólio: https://fernandapassoni.myportfolio.com/ <br>
 Meu email: nandahaese@gmail.com
