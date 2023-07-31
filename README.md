@@ -1,8 +1,8 @@
 <h3>Sobre Mim / About Me</h3>
-🇧🇷 Me chamo Fernanda, sou uma capixaba apaixonada por design, programação e artes. Trabalho com design, desenvolvimento, ux & ui e ilustração, realizando projetos nesta área. Atualmente me encontro disponível para oportunidades nesse setor!
+🇧🇷 Me chamo Fernanda, sou uma capixaba apaixonada por design, programação e artes. Trabalho com design, desenvolvimento, ux & ui e ilustração, realizando projetos nesta área. Atualmente me encontro disponível para oportunidades nesse setor! <br>
 🇺🇸 My name is Fernanda, I'm a brazilian in love with design, programming and arts. I work with design, development, ux & ui and illustration, carrying out projects in this area. I am currently available for opportunities in this sector!
 
-<h3 align="left">Entre em contato:</h3>
+<h3 align="left">Contatos:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/aachal-pardeshi-258257225" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="linkedin" height="30" width="40" /></a>
 <a href="https://dribbble.com/FernandaPassoni" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/dribbble.svg" alt="dribble" height="30" width="40" /></a>
