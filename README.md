@@ -1,4 +1,4 @@
-<h3>Sobre Mim / About Me</h3>
+<h3>Sobre Mim</h3>
 🇧🇷 Me chamo Fernanda, sou uma capixaba apaixonada por design, programação e artes. Trabalho com design, desenvolvimento, ux & ui e ilustração, realizando projetos nesta área. Atualmente me encontro disponível para oportunidades nesse setor! <br>
 🇺🇸 My name is Fernanda, I'm a brazilian in love with design, programming and arts. I work with design, development, ux & ui and illustration, carrying out projects in this area. I am currently available for opportunities in this sector!
 
