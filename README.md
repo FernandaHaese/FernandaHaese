@@ -1,6 +1,6 @@
 <h3>Sobre Mim</h3>
-🇧🇷 Me chamo Fernanda, sou uma capixaba apaixonada por design, programação e artes. Trabalho com design, desenvolvimento, ux & ui e ilustração, realizando projetos nesta área. <br>
-🇺🇸 My name is Fernanda, I'm a brazilian in love with design, programming and arts. I work with design, development, ux & ui and illustration, carrying out projects in this area. 
+🇧🇷 Me chamo Fernanda, sou uma capixaba apaixonada por design, desenvolvimento, educação e artes. Trabalho como designer desde 2021, realizando projetos nesta área. <br>
+🇺🇸 My name is Fernanda, I'm a brazilian in love with design, developmente, education and arts. I work as a designer since 2021, carrying out projects in this area. 
 
 <h3 align="left">Contatos:</h3>
 <p align="left">
