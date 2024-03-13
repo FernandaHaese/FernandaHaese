@@ -1,6 +1,6 @@
 <h3>Sobre Mim</h3>
 🇧🇷 Me chamo Fernanda, sou designer autônoma desde 2021 e atualmente estudante de Design Digital na FIAP! Sou apaixonada por por design, desenvolvimento, educação e artes.  <br>
-🇺🇸 My name is Fernanda, I work as a designer since 2021 and I'm currently studyiyng Digital Design at FIAP! I'm passionate about design, developmente, education and arts. 
+🇺🇸 My name is Fernanda, I work as a designer since 2021 and I'm currently studying Digital Design at FIAP! I'm passionate about design, developmente, education and arts. 
 
 <h3 align="left">Contatos:</h3>
 <p align="left">
