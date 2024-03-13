@@ -1,6 +1,6 @@
 <h3>Sobre Mim</h3>
-🇧🇷 Me chamo Fernanda, sou uma capixaba apaixonada por design, desenvolvimento, educação e artes. Trabalho como designer desde 2021, realizando projetos nesta área. <br>
-🇺🇸 My name is Fernanda, I'm a brazilian in love with design, developmente, education and arts. I work as a designer since 2021, carrying out projects in this area. 
+🇧🇷 Me chamo Fernanda, sou designer autônoma desde 2021 e atualmente estudante de Design Digital na FIAP! Sou apaixonada por por design, desenvolvimento, educação e artes.  <br>
+🇺🇸 My name is Fernanda, I work as a designer since 2021 and I'm currently studyiyng Digital Design at FIAP! I'm passionate about design, developmente, education and arts. 
 
 <h3 align="left">Contatos:</h3>
 <p align="left">
@@ -8,7 +8,7 @@
 <a href="https://dribbble.com/FernandaPassoni" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/dribbble.svg" alt="dribble" height="30" width="40" /></a>
 <a href="https://www.behance.net/nandahaese" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/behance.svg" alt="behance" height="30" width="40" /></a>
 </p>
-Meu portfólio: https://fernandapassoni.myportfolio.com/ <br>
+Meu portfólio: https://nandahaese.myportfolio.com/ <br>
 Meu email: nandahaese@gmail.com
 
 <h3 align="left">Linguagens e Ferramentas:</h3>
