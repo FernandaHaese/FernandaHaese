@@ -8,7 +8,8 @@
 <a href="https://dribbble.com/FernandaPassoni" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/dribbble.svg" alt="dribble" height="30" width="40" /></a>
 <a href="https://www.behance.net/nandahaese" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/behance.svg" alt="behance" height="30" width="40" /></a>
 </p>
-Meu portfólio: https://nandahaese.myportfolio.com/ <br>
+Meu portfólio: https://fernandahaese.myportfolio.com/ <br>
+My portfolio: https://fernandahaese-en.myportfolio.com/<br>
 Meu email: nandahaese@gmail.com
 
 <h3 align="left">Linguagens e Ferramentas:</h3>
