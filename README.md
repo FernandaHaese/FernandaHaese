@@ -1,6 +1,6 @@
 <h3>Sobre Mim</h3>
-🇧🇷 Me chamo Fernanda, trabalho com design desde 2021 e atualmente sou estudante de Design Digital na FIAP! Sou apaixonada por por design, desenvolvimento, educação e artes. Confira meu portfólio: https://fernandahaese.myportfolio.com/   <br>
-🇺🇸 My name is Fernanda, I work as a designer since 2021 and I'm currently studying Digital Design at FIAP! I'm passionate about design, development, education and arts. Check my portfolio: https://fernandahaese-en.myportfolio.com/ 
+🇧🇷 Me chamo Fernanda, trabalho com design desde 2022 e atualmente sou estudante de Design Digital na FIAP! Sou apaixonada por por design, desenvolvimento, educação e artes. Confira meu portfólio: https://fernandahaese.myportfolio.com/   <br>
+🇺🇸 My name is Fernanda, I work as a designer since 2022 and I'm currently studying Digital Design at FIAP! I'm passionate about design, development, education and arts. Check my portfolio: https://fernandahaese-en.myportfolio.com/ 
 <h3 align="left">Contatos:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/aachal-pardeshi-258257225" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="linkedin" height="30" width="40" /></a>
