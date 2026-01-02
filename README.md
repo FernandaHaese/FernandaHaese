@@ -1,7 +1,7 @@
 <h3>Sobre Mim</h3>
 
-🇧🇷 Olá! Sou Fernanda, designer digital e apaixonada por artes, educação e tecnologia. Atualmente, trabalho como designer autônoma, criando soluções visuais estratégicas para diversos clientes. Tenho experiência em design instrucional, apresentações, conteúdo para redes sociais, web design, UX, UI e muito mais. Confira meu portfólio: https://fernandahaese.myportfolio.com/ <br>
-🇺🇸 Hi! I'm Fernanda, a digital designer with a passion for art, education, and technology. Currently, I work autonomously, creating strategic visual solutions for various clients. My experience includes instructional design, presentations, social media content, web design, UX, UI and much more. Check my portfolio: 
+🇧🇷 Designer Multimídia com foco na convergência entre Design, Educação e Tecnologia. Graduada em Design Digital, combino criatividade visual com conhecimentos técnicos de Front-end e UX Design para transformar ideias complexas em soluções visuais intuitivas. Confira meu portfólio: https://fernandahaese.myportfolio.com/ <br>
+🇺🇸 Multimedia Designer with a focus on the convergence between Design, Education and Technology. With a degree in Digital Design, I combine visual creativity with technical knowledge of Front-end and UX Design to transform complex ideas into intuitive visual solutions. Check my portfolio: 
 https://fernandahaese-en.myportfolio.com/ 
 <h3 align="left">Contatos:</h3>
 <p align="left">
