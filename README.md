@@ -1,14 +1,28 @@
-<h3>Sobre Mim</h3>
+## 👨🏻‍💻 About me
 
-🇧🇷 Designer Multimídia com foco na convergência entre Design, Educação e Tecnologia. Graduada em Design Digital, combino criatividade visual com conhecimentos técnicos de Front-end e UX Design para transformar ideias complexas em soluções visuais intuitivas. Confira meu portfólio: https://fernandahaese.myportfolio.com/ <br>
-🇺🇸 Multimedia Designer with a focus on the convergence between Design, Education and Technology. With a degree in Digital Design, I combine visual creativity with technical knowledge of Front-end and UX Design to transform complex ideas into intuitive visual solutions. Check my portfolio: 
-https://fernandahaese-en.myportfolio.com/ 
-<h3 align="left">Contatos:</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/fernanda-haese/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="linkedin" height="30" width="40" /></a>
-<a href="https://www.behance.net/nandahaese" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/behance.svg" alt="behance" height="30" width="40" /></a>
+Multimedia Designer with a focus on the convergence between Design, Education and Technology. With a degree in Digital Design, I combine visual creativity with technical knowledge of Front-end and UX Design to transform complex ideas into intuitive visual solutions.
 
+## 🛠 Languages and Tools
 <!--
-<h3 align="left">Linguagens e Ferramentas:</h3>
-<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/></a> <a href="https://adobexdplatform.com/" target="_blank" rel="noreferrer"><img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="adobexd" width="40" height="40"/></a> <a href="" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/></a></p>
+![CSS](https://img.shields.io/badge/CSS--lightgrey?style=social&logo=CSS)
+![HTML](https://img.shields.io/badge/HTML--lightgrey?style=social&logo=HTML5)
+![Javascript](https://img.shields.io/badge/Javascript--lightgrey?style=social&logo=Javascript)
+![Typescript](https://img.shields.io/badge/Typescript--lightgrey?style=social&logo=Typescript)
+![React](https://img.shields.io/badge/React--lightgrey?style=social&logo=REACT)
+![Bootstrap](https://img.shields.io/badge/Bootstrap--lightgrey?style=social&logo=Bootstrap)
+![Tailwind](https://img.shields.io/badge/Tailwind--lightgrey?style=social&logo=tailwindcss)
 -->
+[![My Skills](https://skillicons.dev/icons?i=css,html,js,ts,react,tailwind,bootstrap,vscode,git,github,figma,ai,ps)](https://skillicons.dev)
+
+
+
+## 📫 Get in touch
+![](https://img.shields.io/badge/Gmail--white?style=social&labelColor=white&logo=gmail&link=mailto%3Anandahaese%40gmail.com)
+![](https://img.shields.io/badge/Behance--white?style=social&labelColor=white&logo=behance&link=https%3A%2F%2Fwww.behance.net%2Fnandahaese)
+![](https://img.shields.io/badge/Linkedin--white?style=social&labelColor=white&logo=linkedin&link=https%3A%2F%2Fwww.linkedin.com%2Fin%2Ffernanda-haese%2F)
+
+
+## 📂 Portfolio
+
+- https://fernandahaese-en.myportfolio.com
+
