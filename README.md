@@ -1,8 +1,8 @@
-## 👨🏻‍💻 About me
+## 👨🏻‍💻 Sobre Mim
 
-Multimedia Designer with a focus on the convergence between Design, Education and Technology. With a degree in Digital Design, I combine visual creativity with technical knowledge of Front-end and UX Design to transform complex ideas into intuitive visual solutions.
+Designer Multimídia com foco na convergência entre Design, Educação e Tecnologia. Graduada em Design Digital, combino criatividade visual com conhecimentos técnicos de Front-end e UX Design para transformar ideias complexas em soluções visuais intuitivas.
 
-## 🛠 Languages and Tools
+## 🛠 Linguagens e Ferramentas
 <!--
 ![CSS](https://img.shields.io/badge/CSS--lightgrey?style=social&logo=CSS)
 ![HTML](https://img.shields.io/badge/HTML--lightgrey?style=social&logo=HTML5)
@@ -16,7 +16,7 @@ Multimedia Designer with a focus on the convergence between Design, Education an
 
 
 
-## 📫 Get in touch
+## 📫 Entre em Contato!
 ![](https://img.shields.io/badge/Gmail--white?style=social&labelColor=white&logo=gmail&link=mailto%3Anandahaese%40gmail.com)
 ![](https://img.shields.io/badge/Behance--white?style=social&labelColor=white&logo=behance&link=https%3A%2F%2Fwww.behance.net%2Fnandahaese)
 ![](https://img.shields.io/badge/Linkedin--white?style=social&labelColor=white&logo=linkedin&link=https%3A%2F%2Fwww.linkedin.com%2Fin%2Ffernanda-haese%2F)
@@ -24,5 +24,5 @@ Multimedia Designer with a focus on the convergence between Design, Education an
 
 ## 📂 Portfolio
 
-- https://fernandahaese-en.myportfolio.com
+- https://fernandahaese.myportfolio.com
 
