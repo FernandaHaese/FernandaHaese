@@ -24,5 +24,5 @@ Designer Multimídia com foco na convergência entre Design, Educação e Tecnol
 
 ## 📂 Portfolio
 
-- https://fernandahaese.myportfolio.com
+https://fernandahaese.myportfolio.com
 
