@@ -1,6 +1,6 @@
 ## 👨🏻‍💻 Sobre Mim
 
-Designer Digital com experiência em UI/UX Design e desenvolvimento Front-end. Minha atuação une design e tecnologia para transformar necessidades reais em soluções digitais funcionais, claras e visualmente consistentes.
+Designer Digital e Desenvolvedora Front-end.  Minha atuação une design e tecnologia para criar experiências digitais claras, consistentes e funcionais. Gosto de participar de diferentes etapas do processo criativo, desde a pesquisa e definição de direções visuais até a criação de interfaces e implementação, transformando ideias em soluções concretas.
 
 ## 🛠 Linguagens e Ferramentas
 <!--
@@ -22,7 +22,7 @@ Designer Digital com experiência em UI/UX Design e desenvolvimento Front-end. M
 ![](https://img.shields.io/badge/Linkedin--white?style=social&labelColor=white&logo=linkedin&link=https%3A%2F%2Fwww.linkedin.com%2Fin%2Ffernanda-haese%2F)
 
 
-## 📂 Portfolio
+## 🌐 Portfolio
 
 https://fernandahaese.com.br
 
