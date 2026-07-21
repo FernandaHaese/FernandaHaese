@@ -1,6 +1,6 @@
 ## 👨🏻‍💻 Sobre Mim
 
-Designer Multimídia com foco na convergência entre Design, Educação e Tecnologia. Graduada em Design Digital, combino criatividade visual com conhecimentos técnicos de Front-end e UX Design para transformar ideias complexas em soluções visuais intuitivas.
+Designer Digital com experiência em UI/UX Design e desenvolvimento Front-end. Minha atuação une design e tecnologia para transformar necessidades reais em soluções digitais funcionais, claras e visualmente consistentes.
 
 ## 🛠 Linguagens e Ferramentas
 <!--
@@ -24,5 +24,5 @@ Designer Multimídia com foco na convergência entre Design, Educação e Tecnol
 
 ## 📂 Portfolio
 
-https://fernandahaese.myportfolio.com
+https://fernandahaese.com.br
 
